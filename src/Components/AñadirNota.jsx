@@ -56,7 +56,7 @@ const AñadirNota = (props) => {
   };
 
   return (
-    <div>
+    <div className="formulario">
       <form action="" onSubmit={handleSubmit}>
         <input
           type="text"
