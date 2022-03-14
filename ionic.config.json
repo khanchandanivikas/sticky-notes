@@ -1,0 +1,7 @@
+{
+  "name": "stickynotes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
